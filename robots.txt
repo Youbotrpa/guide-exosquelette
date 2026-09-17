@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guide-exosquelette.youbot-rpa.chatgpt.site/sitemap.xml
+Sitemap: https://guide-exosquelette.info/sitemap.xml

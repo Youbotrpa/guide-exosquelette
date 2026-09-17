@@ -1,7 +1,7 @@
 window.SITE_CONFIG = {
   siteName: "Guide Exosquelette",
   affiliateDisclosure: "Certains liens présents sur ce site sont des liens affiliés. Si vous réalisez un achat après avoir suivi l’un de ces liens, nous pouvons percevoir une commission, sans coût supplémentaire pour vous.",
-  lastVerified: "11 septembre 2026"
+  lastVerified: "17 septembre 2026"
 };
 
 window.AFFILIATE_LINKS = {
